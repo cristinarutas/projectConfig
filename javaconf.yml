@@ -1,0 +1,2 @@
+javaconf:
+  hello: hello form spring cloud config
