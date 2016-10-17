@@ -1,0 +1,3 @@
+app1:
+  url: https://www.garmin.com/
+  name: app1 hello from spring cloud config
