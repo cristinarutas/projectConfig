@@ -1,2 +1,0 @@
-# projectConfig
-external config
