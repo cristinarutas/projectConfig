@@ -1,5 +1,0 @@
-spring:
-  profile: production
-app1:
-  url: https://www.javacodegeeks.com/2016/03
-  host: test
