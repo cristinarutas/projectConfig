@@ -1,0 +1,2 @@
+app1:
+  password: super secret password from spring cloud config server
