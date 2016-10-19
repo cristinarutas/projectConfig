@@ -1,2 +1,3 @@
 app1:
   message: hello from spring cloud config server
+  host: qugiushq
