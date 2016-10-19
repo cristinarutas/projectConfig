@@ -1,2 +1,23 @@
 garmin:
   host: www.garmin.ro
+---
+spring:
+  profile: dev
+garmin:
+  host: www.garmin.ro-dev
+---
+spring:
+  profile: test
+garmin:
+  host: www.garmin.ro-test
+---
+spring:
+  profile: staging
+garmin:
+  host: www.garmin.ro-stg
+---
+spring:
+  profile: prod
+garmin:
+  host: www.garmin.ro-production
+
